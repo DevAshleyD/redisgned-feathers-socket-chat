@@ -16,7 +16,7 @@
     },
     "entity": "user",
     "service": "users",
-    "secret": "Ej0XhakSOO92QbeyLKDUqsZPQks=",
+    "secret": "Ej0XhakSOO92QjoyLKDUqsZPQks=",
     "authStrategies": [
       "jwt",
       "local"
@@ -31,7 +31,7 @@
       "expiresIn": "1d"
     },
     "local": {
-      "usernameField": "email",
+      "usernameField": "root",
       "passwordField": "password"
     }
   },

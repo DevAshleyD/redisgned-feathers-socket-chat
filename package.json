@@ -5,13 +5,18 @@
   "homepage": "https://feathersjs.com",
   "main": "src",
   "keywords": [
-    "feathers"
+    "feathers",
+    "react",
+    "socket.io",
+    "chat",
+    "express",
+    "node"
   ],
   "author": {
-    "name": "David Luecke",
-    "email": "daff@neyeon.com"
+    "name": "Ashley Donald",
+    "email": "webdevmvp@gmail.com"
   },
-  "contributors": [],
+  "contributors": ["David Luecke"],
   "bugs": {},
   "directories": {
     "lib": "src",
